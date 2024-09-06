@@ -297,7 +297,7 @@ github.com/onsi/gomega/matchers/support/goraph/edge
 github.com/onsi/gomega/matchers/support/goraph/node
 github.com/onsi/gomega/matchers/support/goraph/util
 github.com/onsi/gomega/types
-# github.com/openshift/api v0.0.0-20240830142653-85dc560939ef => github.com/openshift/api v0.0.0-20240830142653-85dc560939ef
+# github.com/openshift/api v0.0.0-20240906165951-d73f2e11e0be => github.com/openshift/api v0.0.0-20240830142653-85dc560939ef
 ## explicit; go 1.22.0
 github.com/openshift/api
 github.com/openshift/api/annotations
@@ -368,7 +368,7 @@ github.com/openshift/api/template
 github.com/openshift/api/template/v1
 github.com/openshift/api/user
 github.com/openshift/api/user/v1
-# github.com/openshift/client-go v0.0.0-20240528061634-b054aa794d87 => github.com/openshift/client-go v0.0.0-20240528061634-b054aa794d87
+# github.com/openshift/client-go v0.0.0-20240528061634-b054aa794d87 => github.com/openshift/client-go v0.0.0-20240906181530-b2f7c4ab0984
 ## explicit; go 1.22.0
 github.com/openshift/client-go/build/applyconfigurations/build/v1
 github.com/openshift/client-go/build/applyconfigurations/internal
@@ -1242,4 +1242,4 @@ sigs.k8s.io/structured-merge-diff/v4/value
 sigs.k8s.io/yaml
 sigs.k8s.io/yaml/goyaml.v2
 # github.com/openshift/api => github.com/openshift/api v0.0.0-20240830142653-85dc560939ef
-# github.com/openshift/client-go => github.com/openshift/client-go v0.0.0-20240528061634-b054aa794d87
+# github.com/openshift/client-go => github.com/openshift/client-go v0.0.0-20240906181530-b2f7c4ab0984

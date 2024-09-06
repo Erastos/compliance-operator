@@ -194,6 +194,8 @@ github.com/openshift/api v0.0.0-20240830142653-85dc560939ef h1:cDx8V3cfZyAZkvrsa
 github.com/openshift/api v0.0.0-20240830142653-85dc560939ef/go.mod h1:OOh6Qopf21pSzqNVCB5gomomBXb8o5sGKZxG2KNpaXM=
 github.com/openshift/client-go v0.0.0-20240528061634-b054aa794d87 h1:JtLhaGpSEconE+1IKmIgCOof/Len5ceG6H1pk43yv5U=
 github.com/openshift/client-go v0.0.0-20240528061634-b054aa794d87/go.mod h1:3IPD4U0qyovZS4EFady2kqY32m8lGcbs/Wx+yprg9z8=
+github.com/openshift/client-go v0.0.0-20240906181530-b2f7c4ab0984 h1:4OVV/fm6ea+51rZbA/52SFbHdjlzjCKK6OCE7Xtn834=
+github.com/openshift/client-go v0.0.0-20240906181530-b2f7c4ab0984/go.mod h1:K+5rEJpGf5LpcwdNtkGsvV3u8wU7m3oHzcVZzuGTRZ4=
 github.com/openshift/library-go v0.0.0-20240731134552-8211143dfde7 h1:FluOIEKNSUEc48dLJEWDin8vDHQ5JmnXycl6wx3M3io=
 github.com/openshift/library-go v0.0.0-20240731134552-8211143dfde7/go.mod h1:PdASVamWinll2BPxiUpXajTwZxV8A1pQbWEsCN1od7I=
 github.com/openshift/library-go v0.0.0-20240821135116-ade3966091b1 h1:Kp33k9pOeJTW7c2zPjwbhnsNijuSKW6c+gfX2LJhD8U=
