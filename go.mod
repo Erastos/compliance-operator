@@ -42,12 +42,12 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
-	github.com/openshift/api v0.0.0-20240830142653-85dc560939ef
-	github.com/openshift/library-go v0.0.0-20240821135116-ade3966091b1
+	github.com/openshift/api v0.0.0-20240909041644-5852b58f4b10
+	github.com/openshift/library-go v0.0.0-20240910113733-b17e2f87dcfa
 	github.com/openshift/machine-config-operator v0.0.1-0.20230815171034-c2bb862bc08a
 	github.com/pborman/uuid v1.2.1
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.69.1
+	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.74.0
 	github.com/prometheus-operator/prometheus-operator/pkg/client v0.68.0
 	github.com/prometheus/client_golang v1.19.1
 	github.com/prometheus/client_model v0.6.1
@@ -121,7 +121,7 @@ require (
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/onsi/ginkgo/v2 v2.20.0 // indirect
-	github.com/openshift/client-go v0.0.0-20240528061634-b054aa794d87 // indirect
+	github.com/openshift/client-go v0.0.0-20240906181530-b2f7c4ab0984 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/robfig/cron v1.2.0 // indirect

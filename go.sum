@@ -198,6 +198,8 @@ github.com/openshift/library-go v0.0.0-20240731134552-8211143dfde7 h1:FluOIEKNSU
 github.com/openshift/library-go v0.0.0-20240731134552-8211143dfde7/go.mod h1:PdASVamWinll2BPxiUpXajTwZxV8A1pQbWEsCN1od7I=
 github.com/openshift/library-go v0.0.0-20240821135116-ade3966091b1 h1:Kp33k9pOeJTW7c2zPjwbhnsNijuSKW6c+gfX2LJhD8U=
 github.com/openshift/library-go v0.0.0-20240821135116-ade3966091b1/go.mod h1:PdASVamWinll2BPxiUpXajTwZxV8A1pQbWEsCN1od7I=
+github.com/openshift/library-go v0.0.0-20240910113733-b17e2f87dcfa h1:854Nd/mDLkR2BvyH/E9p28Vly0VWPhI8B7FW8IdMj9M=
+github.com/openshift/library-go v0.0.0-20240910113733-b17e2f87dcfa/go.mod h1:ZFOrzI3q03Q/5+WZGf2TkoQ3VDyUT7HWTEHrGrfyPkc=
 github.com/openshift/machine-config-operator v0.0.1-0.20230815171034-c2bb862bc08a h1:3KR43D0bbEi3IYSS6b7abKWbj93RJyuxoHImmYaiWZU=
 github.com/openshift/machine-config-operator v0.0.1-0.20230815171034-c2bb862bc08a/go.mod h1:kP51fbL8QBSY/mAkFicoF73x0QSraPrX4BjWIdzFPio=
 github.com/pborman/uuid v1.2.1 h1:+ZZIw58t/ozdjRaXh/3awHfmWRbzYxJoAdNJxe/3pvw=
@@ -210,6 +212,8 @@ github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRI
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.69.1 h1:hOnp+1FLBm+ifsyiRbunmfSs99jKAq+Tr5elCmo5l5U=
 github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.69.1/go.mod h1:JtflYMUMay9HGil4aRg+dSj6X6mngtuBJf/ULOCxbxI=
+github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.74.0 h1:AHzMWDxNiAVscJL6+4wkvFRTpMnJqiaZFEKA/osaBXE=
+github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.74.0/go.mod h1:wAR5JopumPtAZnu0Cjv2PSqV4p4QB09LMhc6fZZTXuA=
 github.com/prometheus-operator/prometheus-operator/pkg/client v0.68.0 h1:8FS0sXpFkFPxp2gfkxyEMnhZV9yhf7xPbpsIeUZHlzM=
 github.com/prometheus-operator/prometheus-operator/pkg/client v0.68.0/go.mod h1:ul4ND0BMCcOX1OSZvbJA1/lh7yQ2ILHNKuZIojGISe4=
 github.com/prometheus/client_golang v1.19.1 h1:wZWJDwK+NameRJuPGDhlnFgx8e8HN3XHQeLaYJFJBOE=
